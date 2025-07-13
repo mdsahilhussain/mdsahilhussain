@@ -1,7 +1,7 @@
 # Hi 👋, I'm M Sahil Hussain
 ##### Frontend Developer | 2.5+ YOE | React, Next.js, TypeScript, UI/UX | Built Scalable UIs for Startups & AI Products | Ex-Prolink, Mindzenx, SolveChamp | Open to WorkA passionate frontend developer from India
 
-- 🔭 I’m currently working on [Nouvue](https://github.com/mdsahilhussain/nouvue)
+- 🔭 I’m currently working on [Markscribe](https://github.com/mdsahilhussain/markscribe)
 - 🌱 I’m currently learning **AI automation and exploring how to seamlessly integrate AI into the frontend side of web applications.**
 - 👨‍💻 All of my projects are available at [https://msahilhussain.vercel.app/](https://msahilhussain.vercel.app/)
 - 📝 I regularly write articles on [@msahilhussain](@msahilhussain)
