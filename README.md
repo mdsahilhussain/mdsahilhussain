@@ -14,7 +14,15 @@
 ----
 
 ### Ask me about
-Over 2 years+ of hands-on experience in crafting scalable, high-performance web applications using React.js, Next.js, TypeScript, and modern JavaScript (ES6+). A graduate in Computer Science Engineering (8.04 CGPA), I combine a strong academic foundation with practical experience delivering responsive, accessible, and user-focused interfaces. At Prolink Infotech, I led the frontend development of 3+ B2B SaaS applications, focusing on modular code architecture, CI/CD practices, and performance tuning — resulting in a 30%+ improvement in Google Lighthouse scores. My earlier job titles at Mindzenx and as a freelance UI developer for SolveChamp involved building mobile-first, pixel-perfect UIs and interactive prototypes, increasing engagement metrics by up to 85%. I bring deep experience with tools like Redux, Tailwind CSS, Webpack, Vite, and RESTful APIs, and actively contribute to testing, code reviews, and version control using Git. My core strengths include UI/UX design, responsive layouts, frontend architecture, and performance optimization. I’m passionate about creating clean, accessible frontend systems that scale — working closely with cross-functional teams to turn ideas into polished user experiences. I’m currently seeking a Frontend Developer opportunity (India or global), where I can contribute to SaaS or AI-driven platforms, leverage my expertise in React, Next.js, and modern tooling, and continue growing alongside a collaborative, forward-thinking team.
+Over 2 years+ of hands-on experience in crafting scalable, high-performance web applications using React.js, Next.js, TypeScript, and modern JavaScript (ES6+). 
+
+A graduate in Computer Science Engineering (8.04 CGPA), I combine a strong academic foundation with practical experience delivering responsive, accessible, and user-focused interfaces. 
+
+At Prolink Infotech, I led the frontend development of 3+ B2B SaaS applications, focusing on modular code architecture, CI/CD practices, and performance tuning, resulting in a 30%+ improvement in Google Lighthouse scores. 
+
+My earlier job titles at Mindzenx and as a freelance UI developer for SolveChamp involved building mobile-first, pixel-perfect UIs and interactive prototypes, increasing engagement metrics by up to 85%. I bring deep experience with tools like Redux, Tailwind CSS, Webpack, Vite, and RESTful APIs, and actively contribute to testing, code reviews, and version control using Git. My core strengths include UI/UX design, responsive layouts, frontend architecture, and performance optimisation. I’m passionate about creating clean, accessible frontend systems that scale, working closely with cross-functional teams to turn ideas into polished user experiences. 
+
+I’m currently seeking a Frontend Developer opportunity (India or global), where I can contribute to SaaS or AI-driven platforms, leverage my expertise in React, Next.js, and modern tooling, and continue growing alongside a collaborative, forward-thinking team.
 
 ##### 📫 How to reach me **msahil.hussain9@gmail.com**
 
