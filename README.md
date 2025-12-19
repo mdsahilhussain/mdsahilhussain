@@ -33,32 +33,5 @@ I’m currently seeking a Frontend Developer opportunity (India or global), wher
 
 ----
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdsahilhussain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mdsahilhussain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdsahilhussain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mdsahilhussain&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdsahilhussain&radius=16&theme=dracula&area=true&order=5&hide_title=true&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdsahilhussain/mdsahilhussain/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdsahilhussain/mdsahilhussain/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mdsahilhussain/mdsahilhussain/output/pacman-contribution-graph.svg">
-</picture>
-
-----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mdsahilhussain&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-----
-
-[![](https://visitcount.itsvg.in/api?id=mdsahilhussain&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### You can help me by Donating
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/frontendbot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/frontendbot" /></a></p><br><br>
