@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **My Idea** [Markscribe](https://github.com/mdsahilhussain/markscribe)
 - 🌱 I’m currently learning **AI automation and exploring how to seamlessly integrate AI into the frontend side of web applications.**
-- 👨‍💻 All of my projects are available at [https://msahilhussain.vercel.app/](https://msahilhussain.vercel.app/)
 - 📝 I regularly write articles on [@msahilhussain](@msahilhussain)
 
 ----
