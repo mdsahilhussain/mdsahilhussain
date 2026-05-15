@@ -1,5 +1,5 @@
 # Hi 👋, I'm M Sahil Hussain
-##### Frontend Developer at Prolink Infotech | 3 YOE | React, Next.js, TypeScript, UI/UX | Built Scalable UIs for Startups & AI Products | Ex - Mindzenx, SolveChamp | Open to WorkA passionate frontend developer from India
+##### Frontend Developer at Prolink Infotech | 3 YOE | React, Next.js, TypeScript, UI/UX | Built Scalable UIs for Startups & AI Products | Ex - Mindzenx, SolveChamp | Open to Work A passionate frontend developer from India
 
 - 🔭 I’m currently working on **My Idea** [Markscribe](https://github.com/mdsahilhussain/markscribe)
 - 🌱 I’m currently learning **AI automation and exploring how to seamlessly integrate AI into the frontend side of web applications.**
